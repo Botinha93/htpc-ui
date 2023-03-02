@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<htpc>
+<cat type="Video">
+	<item name="Netflix">
+		<arte>gui/Cattegories/Images/Icons/Netflix.png</arte>
+		<arteHover>gui/Cattegories/Images/Mouseover/001.png</arteHover>
+		<action>Brow</action>
+		<uri>https://www.netflix.com/browse</uri>
+	</item>
+	<item name="Amazon Prime">
+		<arte>gui/Cattegories/Images/Icons/Amazon.png</arte>
+		<arteHover>gui/Cattegories/Images/Mouseover/002.png</arteHover>
+		<action>Brow</action>
+		<uri>https://www.primevideo.com/</uri>
+	</item>
+	<item name="Popcorn Time">
+		<arte>gui/Cattegories/Images/Icons/PopcornTime.png</arte>
+		<arteHover>gui/Cattegories/Images/Mouseover/003.png</arteHover>
+		<action>EXE</action>
+		<uri>C:/Users/Botin/AppData/Local/Popcorn-Time/Popcorn-Time.exe</uri>
+	</item>
+	<item name="IP TV">
+		<arte>gui/Cattegories/Images/Icons/TVTropes.png</arte>
+		<arteHover>gui/Cattegories/Images/Mouseover/004.png</arteHover>
+		<action>Brow</action>
+		<uri>https://www.youtube.com/</uri>
+	</item>
+	<item name="Twitch">
+		<arte>gui/Cattegories/Images/Icons/_G_Twitch.png</arte>
+		<arteHover>gui/Cattegories/Images/Mouseover/005.png</arteHover>
+		<action>EXE</action>
+		<uri>C:/Users/Botin/AppData/Roaming/Twitch/Bin/Twitch.exe</uri>
+	</item>
+	<item name="Youtube">
+		<arte>gui/Cattegories/Images/Icons/YouTube.png</arte>
+		<arteHover>gui/Cattegories/Images/Mouseover/006.png</arteHover>
+		<action>Brow</action>
+		<uri>http://www.youtube.com/</uri>
+	</item>
+</cat>
+<cat type="Programs">
+	<item name="Spotify">
+		<arte>gui/Cattegories/Images/Icons/Spotify.png</arte>
+		<arteHover>gui/Cattegories/Images/Mouseover/007.png</arteHover>
+		<action>Brow</action>
+		<uri>https://open.spotify.com/browse</uri>
+	</item>	
+	<item name="Chrome">
+		<arte>gui/Cattegories/Images/Icons/Chrome.png</arte>
+		<arteHover>gui/Cattegories/Images/Mouseover/www.png</arteHover>
+		<action>EXE</action>
+		<uri>chrome/Chrome.exe --start-maximized</uri>
+	</item>	
+</cat>
+<cat type="Game">
+	<item name="Steam">
+		<arte>gui/Cattegories/Images/Icons/_G_Steam.png</arte>
+		<arteHover>gui/Cattegories/Images/Mouseover/GabeN.png</arteHover>
+		<action>Brow</action>
+		<uri>https://open.spotify.com/browse</uri>
+	</item>	
+</cat>
+</htpc>
